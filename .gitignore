@@ -26,3 +26,6 @@ goinsta-session
 
 # Vendor folder
 vendor/
+
+#config with passwords
+config.json
